@@ -5,7 +5,7 @@
 	padding:0;
 	
 }
-.outer{
+.container{
 	border: 4px solid black;
 	padding :2px;
 	border-radius:35px;
@@ -20,7 +20,7 @@
 	
 }
 
-.outer div{
+.container div{
 	border-radius:50%;
 	width: 20%;
 	height:40%;
